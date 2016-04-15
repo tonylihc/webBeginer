@@ -4,7 +4,7 @@ My blogs to record my life
 small will make large
 > > test markdown
 
-* 好
+* haha:)
 
 > this is
 
